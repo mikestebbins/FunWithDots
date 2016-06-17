@@ -18,6 +18,7 @@ void setup() {
   background(255);
   fill(0,0,0);
   noStroke();
+  frameRate(100);
 }
 
 
